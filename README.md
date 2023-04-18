@@ -24,3 +24,6 @@ pip install numpy
 ```
 
 运行`main.py`程序。
+
+#### 补充代码
+代码的核心部分alpha-beta剪枝需要自己编写
