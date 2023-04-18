@@ -174,7 +174,7 @@ class ChessAI(object):
         return tmp_chessboard
 
     '''
-    TA提示： 
+    提示： 
 
     在下面的函数中，你可能需要这些信息：
     self.max_depth              深度        
